@@ -1,4 +1,4 @@
-# Ubicuo ![alt text](https://github.com/zain-ak/ubicuo/logo.png "Ubicuo Logo")
+# Ubicuo
 
 
 ## Introduction
