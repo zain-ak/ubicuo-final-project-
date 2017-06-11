@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/29bae882d11a6ed2ed11d558140907ed904ffa20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_142d14bd33cecfc06334350bd5d4f3ea1a136fd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/b9342289009c5dcaab3cd48fba043e32f1147ce7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3f2bd7d626b065e0960be2404e0af133e7b179b">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86a5b475f37fc79a7d8fc2aad387a54bc7f8a323/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/28e60bb2e9fed4dc8f601e85d28991f2f9820549/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_734b97e5889def6e330d26c3e6900c81d16b01ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/cf0ff5a81d2095716ccd3043687703a58d822886/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d41f0ebcfd082584afe8b2fcd7b9626604f1b8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/2b5357833b482c5f1e67d5ef35dad8badea8b337/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d58dc38cf929ae4447c1283f1eed28291dcfa4d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/c907ac8c716bdd0190d595725f61448ab26847af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_790f1525e72681adc475cb6b6d0258dfc5e6487c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/23880781da924abf483c732f29aedd7beb1e70a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b816306edcf5f750545be9cca13e623ff0e243d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.9/1d2a6ee94f2fcaa2e2b588cbd5a4da1cb1f1b9ff/joda-time-2.9.9-no-tzdb.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d2a6ee94f2fcaa2e2b588cbd5a4da1cb1f1b9ff">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/joda-time-2.9.9-no-tzdb_848503affe379ab152c4cb0e3ccc629483e0b8ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/575e372bb934329d0ea6d5d05bcacdcff114fa77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5bf4010629b08ac49b9ab9cb18349a5989313ce">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f22e0cb384b78749277a3ef1b41af10ddf901c60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/9e6e6f1da9c40b34d9b1493a73e19ce7eebc72cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1eeb816d58c01b447ac31b36777cfa61e804172b">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ffe5d4da299644d3f4522c141f6b8520ebf1fe4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.gradle/caches/modules-2/files-2.1/com.jakewharton/disklrucache/2.0.2/93b399470e72c0bc8cb52379943b63c9aa586cd8/disklrucache-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/disklrucache-2.0.2_6f34cd024633935f60259fa9fe685640d33d9160/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/7dd73d35766b80356fa05f5445ea54795d3e9f32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c877b2c372dd26a46a0fe1c0fe07f186fb2ac26">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ea383e5de320e463be10ef93fff0bfb9b3449e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_1d0cb109a2eff4ee4752024daba8f5e2052cb827/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha9/constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha9_cb5e4235cc6c8580efd95c88ac4c7e8ab9b250e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/Library/Android/sdk/build-tools/25.0.0/renderscript/lib/renderscript-v8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_a6280673ac903ce8bb72de91160b1ea8820ad061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/a61b8b49c3277c8ba563faf31e7c541facc79f61/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5350b122d1e7d99f7778bb33868c951188c6e873/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/883575766d1804bed202256152bd286bdfbbe29c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f98d48a717c98fa2109706daa126c3f52b13aad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/59017acd0058d82e74487198ebaf5c0abb7874c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_972cb6ded345e1bdd5643c59164124fb010dd1c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/451c69043197748337674b14c5138b82cca433bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_557d8eb991211b50f9a246256225b0911765cdc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/60f267cdf103635bd0e6eaa40074dbaca4981c32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb14ff13feb0b907d4d0c92339c1187ce4e6599e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6846543d5aa28054da964326e0c78b7b008fc168/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="10cca1eb32bc352dca4de0557799aa3b709180fa">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8ec9e3e1f46b463cc4233cefd0de422e7e01da4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/c8dcc4e55317ae4aa775e749f2e45d457c10736b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffa592a0731d0ba19d7019a33e0fdc800ea13834/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Zain/.android/build-cache/4cc8cbcc8f77d70cdb5bc5d6cb9f2ad5c25328f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/Zain/Downloads/estimote-android-tutorial-ea99e83c/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f28ad30e56d7d41f350f1a15c14740646a87a8a4/classes.dex" />
+    </item>
+
+</items>

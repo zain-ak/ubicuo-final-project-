@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:layout_margin="10dp">
+
+    <TextView
+        android:id="@+id/studentListID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Student ID"
+        android:textSize="24sp"
+        android:layout_above="@+id/studentListName"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="15dp" />
+
+    <TextView
+        android:id="@+id/studentListName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Student Name"
+        android:textSize="12sp"
+        android:layout_below="@+id/imgFwd"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:id="@+id/imgFwd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:tint="@color/colorPrimary"
+        app:srcCompat="@android:drawable/ic_media_play" />
+
+
+</RelativeLayout>

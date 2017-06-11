@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ubicuo</string>
+    <string name="ip">http://192.168.0.17</string>
+</resources>
